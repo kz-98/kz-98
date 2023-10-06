@@ -7,7 +7,7 @@ Junior Full-Stack developer
 
 Web Developer with a keen focus and experience in web application development and web layout design, with a strong work ethic and innate ability to adapt to everchanging and challenging environments.
 
-*   ✉️  You can contact me at [kezpaul.94@gmail.com](mailto:kezpaul.94@gmail.com)
+*   ✉️  You can contact me at [kezpaul.94@gmail.com](mailto:kezpaul.94@gmail.com)/[paulkidus@gmail.com](mailto:paulkidus@gmail.com)
 *   🧠  I'm learning Spring Framework
 *   🤝  I'm open to collaborating on interesting projects### Skills 
 <p align="left">
